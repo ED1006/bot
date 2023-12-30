@@ -1,0 +1,18 @@
+{
+  "files": {
+    "src/index.ts": [
+      {
+        "id": "2161d687-c3c8-43fc-a3e4-8ec1ee206fc4",
+        "line": 1,
+        "version": 2836,
+        "index": 0
+      },
+      {
+        "id": "15409abf-4b92-45eb-aed4-db5b89d6f459",
+        "line": 93,
+        "version": 2836,
+        "index": 2886
+      }
+    ]
+  }
+}
